@@ -43,7 +43,7 @@ Help improve documentation on knockback and give a kickstart in using this tool
 
 
 
-## We am sure many of the ones reading this page will already know about
+#### We are sure many of the ones reading this page will already know about
 ####Anyways, there are some (dumb) questions that we want to rule out:
 
 1. What are web-apps upto these days?
